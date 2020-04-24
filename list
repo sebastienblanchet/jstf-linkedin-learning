@@ -1,0 +1,62 @@
+1. Introduction and Setup
+Introduction to TensorFlow
+1m 48s
+Save Introduction to TensorFlow
+Differences between versions
+1m 13s
+Save Differences between versions
+Introduction to machine learning
+2m 16s
+Save Introduction to machine learning
+A TensorFlow demo
+3m 19s
+Save A TensorFlow demo
+Initial project creation with TensorFlow
+4m 49s
+Save Initial project creation with TensorFlow
+
+2. TensorFlow Basics
+Your first tensor
+2m 55s
+Save Your first tensor
+Tensors and variables
+4m 47s
+Save Tensors and variables
+Operations, or ops
+5m 41s
+Save Operations, or ops
+Model introduction
+5m 13s
+Save Model introduction
+Layers introduction
+4m 51s
+Save Layers introduction
+
+3. Exploration of a Full Project
+Import example project
+1m 47s
+Save Import example project
+Exploration of the dataset
+2m 8s
+Save Exploration of the dataset
+Exploration of the models and layers
+1m 47s
+Save Exploration of the models and layers
+Exploration of training the model
+2m 42s
+Save Exploration of training the model
+See the live example
+3m 26s
+Save See the live example
+
+4. Advanced Subjects
+Use Python-based models in JS
+2m 33s
+Save Use Python-based models in JS
+Convert SavedModel to web
+2m 31s
+Save Convert SavedModel to web
+
+Conclusion
+Next steps
+1m 14s
